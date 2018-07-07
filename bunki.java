@@ -4,9 +4,9 @@ public class bunki {
     int a = 11;
 
     if (a > 10) {
-      System.out.println("a‚Í10‚æ‚è‘å‚«‚¢‚Å‚·B");
+      System.out.println("High");
     } else {
-      System.out.println("a‚Í10ˆÈ‰º‚Å‚·B");
+      System.out.println("Low");
     }
   }
 
