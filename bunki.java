@@ -1,7 +1,7 @@
 public class bunki {
 
   public static void main(String[] args) {
-    int a = 11;
+    int a = 9;
 
     if (a > 10) {
       System.out.println("a‚Í10‚æ‚è‘å‚«‚¢‚Å‚·B");
